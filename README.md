@@ -1,1 +1,1 @@
-# static-test-project
+# Static project without js framework
